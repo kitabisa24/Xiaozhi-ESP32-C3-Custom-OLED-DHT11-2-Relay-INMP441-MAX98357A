@@ -1,4 +1,4 @@
-# Xiaozhi ESP32-C3 Custom – Arsiparis Cimahi
+# Xiaozhi ESP32-C3 Custom – Cimahi
 
 Custom **Xiaozhi AI** berbasis **ESP32-C3 Super Mini 4MB** dengan OLED SSD1306, microphone INMP441, amplifier MAX98357A, sensor DHT11, 2 relay untuk Lampu dan Kipas, serta tombol PTT.
 
